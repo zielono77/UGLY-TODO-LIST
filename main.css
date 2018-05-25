@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 100px;
+    height: 600px;
+}
+
+.wrapper {
+    display: flex;
+   /* align-items: center; */
+    flex-direction: column;
+
+}
+
+.title {
+    padding: 20px;
+    font-size: 40px;
+    
+}
